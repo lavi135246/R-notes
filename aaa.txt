@@ -82,3 +82,6 @@ and the repository exists.
 
 anthony@0211016-pc MINGW64 /c/R_notes (master)
 $
+
+git config --global user.name "ninetf135246"
+git config --global user.email sakura5995@gmail.com
