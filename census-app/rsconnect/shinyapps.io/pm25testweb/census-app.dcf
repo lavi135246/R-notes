@@ -1,0 +1,9 @@
+name: census-app
+account: pm25testweb
+server: shinyapps.io
+appId: 116096
+bundleId: 565494
+url: https://pm25testweb.shinyapps.io/census-app/
+when: 1474574695.97924
+asMultiple: FALSE
+asStatic: FALSE
